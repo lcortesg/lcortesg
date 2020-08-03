@@ -40,3 +40,7 @@ Here are some ideas to get you started:
 <br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lcortesg)
+
+
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lcortesg&show_icons=true&hide_border=true" />
