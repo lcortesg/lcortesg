@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Lucas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lcortesg&show_icons=true&hide_border=true" />
 
-[ghpage]: https://github.com/lcortesg
+[ghpage]: https://youtube.com/codeSTACKr
