@@ -44,6 +44,7 @@
 
 ---
 
+<!--
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
@@ -65,6 +66,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+-->
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
